@@ -22,11 +22,11 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #13182b;
-  --background-secondary: #161c30;
-  --background-secondary-alt: #1c2438;
-  --background-secondary-alt-alt: #1b1d31;
-  --background-tertiary: #060c24;
+  --background-primary: #D087D6;
+  --background-secondary: #864A8A;
+  --background-secondary-alt: #883D8E;
+  --background-secondary-alt-alt: #882D90;
+  --background-tertiary: #560C5C;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
